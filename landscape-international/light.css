@@ -1,9 +1,9 @@
 @import url("//fonts.googleapis.com/css?family=Podkova:400,700");
 @import url("//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700");
 /* RESET */
-#webkite-results.beer-menu-landscape {
+#webkite-results.beer-menu-landscape-international {
   /* HTML5 display-role reset for older browsers */ }
-  #webkite-results.beer-menu-landscape div, #webkite-results.beer-menu-landscape span, #webkite-results.beer-menu-landscape applet, #webkite-results.beer-menu-landscape object, #webkite-results.beer-menu-landscape iframe, #webkite-results.beer-menu-landscape h1, #webkite-results.beer-menu-landscape h2, #webkite-results.beer-menu-landscape h3, #webkite-results.beer-menu-landscape h4, #webkite-results.beer-menu-landscape h5, #webkite-results.beer-menu-landscape h6, #webkite-results.beer-menu-landscape p, #webkite-results.beer-menu-landscape blockquote, #webkite-results.beer-menu-landscape pre, #webkite-results.beer-menu-landscape a, #webkite-results.beer-menu-landscape abbr, #webkite-results.beer-menu-landscape acronym, #webkite-results.beer-menu-landscape address, #webkite-results.beer-menu-landscape big, #webkite-results.beer-menu-landscape cite, #webkite-results.beer-menu-landscape code, #webkite-results.beer-menu-landscape del, #webkite-results.beer-menu-landscape dfn, #webkite-results.beer-menu-landscape em, #webkite-results.beer-menu-landscape img, #webkite-results.beer-menu-landscape ins, #webkite-results.beer-menu-landscape kbd, #webkite-results.beer-menu-landscape q, #webkite-results.beer-menu-landscape s, #webkite-results.beer-menu-landscape samp, #webkite-results.beer-menu-landscape small, #webkite-results.beer-menu-landscape strike, #webkite-results.beer-menu-landscape strong, #webkite-results.beer-menu-landscape sub, #webkite-results.beer-menu-landscape sup, #webkite-results.beer-menu-landscape tt, #webkite-results.beer-menu-landscape var, #webkite-results.beer-menu-landscape b, #webkite-results.beer-menu-landscape u, #webkite-results.beer-menu-landscape i, #webkite-results.beer-menu-landscape center, #webkite-results.beer-menu-landscape dl, #webkite-results.beer-menu-landscape dt, #webkite-results.beer-menu-landscape dd, #webkite-results.beer-menu-landscape ol, #webkite-results.beer-menu-landscape ul, #webkite-results.beer-menu-landscape li, #webkite-results.beer-menu-landscape fieldset, #webkite-results.beer-menu-landscape form, #webkite-results.beer-menu-landscape label, #webkite-results.beer-menu-landscape legend, #webkite-results.beer-menu-landscape table, #webkite-results.beer-menu-landscape caption, #webkite-results.beer-menu-landscape tbody, #webkite-results.beer-menu-landscape tfoot, #webkite-results.beer-menu-landscape thead, #webkite-results.beer-menu-landscape tr, #webkite-results.beer-menu-landscape th, #webkite-results.beer-menu-landscape td, #webkite-results.beer-menu-landscape article, #webkite-results.beer-menu-landscape aside, #webkite-results.beer-menu-landscape canvas, #webkite-results.beer-menu-landscape details, #webkite-results.beer-menu-landscape embed, #webkite-results.beer-menu-landscape figure, #webkite-results.beer-menu-landscape figcaption, #webkite-results.beer-menu-landscape footer, #webkite-results.beer-menu-landscape header, #webkite-results.beer-menu-landscape hgroup, #webkite-results.beer-menu-landscape menu, #webkite-results.beer-menu-landscape nav, #webkite-results.beer-menu-landscape output, #webkite-results.beer-menu-landscape ruby, #webkite-results.beer-menu-landscape section, #webkite-results.beer-menu-landscape summary, #webkite-results.beer-menu-landscape time, #webkite-results.beer-menu-landscape mark, #webkite-results.beer-menu-landscape audio, #webkite-results.beer-menu-landscape video {
+  #webkite-results.beer-menu-landscape-international div, #webkite-results.beer-menu-landscape-international span, #webkite-results.beer-menu-landscape-international applet, #webkite-results.beer-menu-landscape-international object, #webkite-results.beer-menu-landscape-international iframe, #webkite-results.beer-menu-landscape-international h1, #webkite-results.beer-menu-landscape-international h2, #webkite-results.beer-menu-landscape-international h3, #webkite-results.beer-menu-landscape-international h4, #webkite-results.beer-menu-landscape-international h5, #webkite-results.beer-menu-landscape-international h6, #webkite-results.beer-menu-landscape-international p, #webkite-results.beer-menu-landscape-international blockquote, #webkite-results.beer-menu-landscape-international pre, #webkite-results.beer-menu-landscape-international a, #webkite-results.beer-menu-landscape-international abbr, #webkite-results.beer-menu-landscape-international acronym, #webkite-results.beer-menu-landscape-international address, #webkite-results.beer-menu-landscape-international big, #webkite-results.beer-menu-landscape-international cite, #webkite-results.beer-menu-landscape-international code, #webkite-results.beer-menu-landscape-international del, #webkite-results.beer-menu-landscape-international dfn, #webkite-results.beer-menu-landscape-international em, #webkite-results.beer-menu-landscape-international img, #webkite-results.beer-menu-landscape-international ins, #webkite-results.beer-menu-landscape-international kbd, #webkite-results.beer-menu-landscape-international q, #webkite-results.beer-menu-landscape-international s, #webkite-results.beer-menu-landscape-international samp, #webkite-results.beer-menu-landscape-international small, #webkite-results.beer-menu-landscape-international strike, #webkite-results.beer-menu-landscape-international strong, #webkite-results.beer-menu-landscape-international sub, #webkite-results.beer-menu-landscape-international sup, #webkite-results.beer-menu-landscape-international tt, #webkite-results.beer-menu-landscape-international var, #webkite-results.beer-menu-landscape-international b, #webkite-results.beer-menu-landscape-international u, #webkite-results.beer-menu-landscape-international i, #webkite-results.beer-menu-landscape-international center, #webkite-results.beer-menu-landscape-international dl, #webkite-results.beer-menu-landscape-international dt, #webkite-results.beer-menu-landscape-international dd, #webkite-results.beer-menu-landscape-international ol, #webkite-results.beer-menu-landscape-international ul, #webkite-results.beer-menu-landscape-international li, #webkite-results.beer-menu-landscape-international fieldset, #webkite-results.beer-menu-landscape-international form, #webkite-results.beer-menu-landscape-international label, #webkite-results.beer-menu-landscape-international legend, #webkite-results.beer-menu-landscape-international table, #webkite-results.beer-menu-landscape-international caption, #webkite-results.beer-menu-landscape-international tbody, #webkite-results.beer-menu-landscape-international tfoot, #webkite-results.beer-menu-landscape-international thead, #webkite-results.beer-menu-landscape-international tr, #webkite-results.beer-menu-landscape-international th, #webkite-results.beer-menu-landscape-international td, #webkite-results.beer-menu-landscape-international article, #webkite-results.beer-menu-landscape-international aside, #webkite-results.beer-menu-landscape-international canvas, #webkite-results.beer-menu-landscape-international details, #webkite-results.beer-menu-landscape-international embed, #webkite-results.beer-menu-landscape-international figure, #webkite-results.beer-menu-landscape-international figcaption, #webkite-results.beer-menu-landscape-international footer, #webkite-results.beer-menu-landscape-international header, #webkite-results.beer-menu-landscape-international hgroup, #webkite-results.beer-menu-landscape-international menu, #webkite-results.beer-menu-landscape-international nav, #webkite-results.beer-menu-landscape-international output, #webkite-results.beer-menu-landscape-international ruby, #webkite-results.beer-menu-landscape-international section, #webkite-results.beer-menu-landscape-international summary, #webkite-results.beer-menu-landscape-international time, #webkite-results.beer-menu-landscape-international mark, #webkite-results.beer-menu-landscape-international audio, #webkite-results.beer-menu-landscape-international video {
     -moz-box-shadow: none;
     -webkit-box-shadow: none;
     box-shadow: none;
@@ -25,35 +25,35 @@
     -ms-transition: none;
     -o-transition: all 0 none;
     transition: none; }
-  #webkite-results.beer-menu-landscape button, #webkite-results.beer-menu-landscape select, #webkite-results.beer-menu-landscape input {
+  #webkite-results.beer-menu-landscape-international button, #webkite-results.beer-menu-landscape-international select, #webkite-results.beer-menu-landscape-international input {
     text-transform: none; }
-    #webkite-results.beer-menu-landscape button:active, #webkite-results.beer-menu-landscape select:active, #webkite-results.beer-menu-landscape input:active {
+    #webkite-results.beer-menu-landscape-international button:active, #webkite-results.beer-menu-landscape-international select:active, #webkite-results.beer-menu-landscape-international input:active {
       -moz-box-shadow: none;
       -webkit-box-shadow: none;
       box-shadow: none; }
-  #webkite-results.beer-menu-landscape button::-moz-focus-inner {
+  #webkite-results.beer-menu-landscape-international button::-moz-focus-inner {
     padding: 0;
     border: 0; }
-  #webkite-results.beer-menu-landscape article, #webkite-results.beer-menu-landscape aside, #webkite-results.beer-menu-landscape details, #webkite-results.beer-menu-landscape figcaption, #webkite-results.beer-menu-landscape figure, #webkite-results.beer-menu-landscape footer, #webkite-results.beer-menu-landscape header, #webkite-results.beer-menu-landscape hgroup, #webkite-results.beer-menu-landscape menu, #webkite-results.beer-menu-landscape nav, #webkite-results.beer-menu-landscape section {
+  #webkite-results.beer-menu-landscape-international article, #webkite-results.beer-menu-landscape-international aside, #webkite-results.beer-menu-landscape-international details, #webkite-results.beer-menu-landscape-international figcaption, #webkite-results.beer-menu-landscape-international figure, #webkite-results.beer-menu-landscape-international footer, #webkite-results.beer-menu-landscape-international header, #webkite-results.beer-menu-landscape-international hgroup, #webkite-results.beer-menu-landscape-international menu, #webkite-results.beer-menu-landscape-international nav, #webkite-results.beer-menu-landscape-international section {
     display: block; }
-  #webkite-results.beer-menu-landscape body {
+  #webkite-results.beer-menu-landscape-international body {
     line-height: 1; }
-  #webkite-results.beer-menu-landscape ol, #webkite-results.beer-menu-landscape ul, #webkite-results.beer-menu-landscape ul li {
+  #webkite-results.beer-menu-landscape-international ol, #webkite-results.beer-menu-landscape-international ul, #webkite-results.beer-menu-landscape-international ul li {
     list-style: none; }
-  #webkite-results.beer-menu-landscape blockquote, #webkite-results.beer-menu-landscape q {
+  #webkite-results.beer-menu-landscape-international blockquote, #webkite-results.beer-menu-landscape-international q {
     quotes: none; }
-  #webkite-results.beer-menu-landscape blockquote:before, #webkite-results.beer-menu-landscape blockquote:after {
+  #webkite-results.beer-menu-landscape-international blockquote:before, #webkite-results.beer-menu-landscape-international blockquote:after {
     content: '';
     content: none; }
-  #webkite-results.beer-menu-landscape q:before, #webkite-results.beer-menu-landscape q:after {
+  #webkite-results.beer-menu-landscape-international q:before, #webkite-results.beer-menu-landscape-international q:after {
     content: '';
     content: none; }
-  #webkite-results.beer-menu-landscape table {
+  #webkite-results.beer-menu-landscape-international table {
     border-collapse: collapse;
     border-spacing: 0; }
 
 /****************************************** BEGIN STYLES */
-#webkite-results.beer-menu-landscape {
+#webkite-results.beer-menu-landscape-international {
   background: rgba(255, 255, 255, 0.95);
   border: 1px solid rgba(0, 0, 0, 0.1);
   -webkit-border-radius: 0.625em;
@@ -70,18 +70,18 @@
   font-family: "Open Sans";
   font-size: 16px;
   font: 400 16px/normal "Open Sans"; }
-  #webkite-results.beer-menu-landscape a {
+  #webkite-results.beer-menu-landscape-international a {
     color: #1b9cd2;
     text-decoration: none; }
-    #webkite-results.beer-menu-landscape a:hover {
+    #webkite-results.beer-menu-landscape-international a:hover {
       color: #0073a7; }
-  #webkite-results.beer-menu-landscape.webkite-fade-out img {
+  #webkite-results.beer-menu-landscape-international.webkite-fade-out img {
     opacity: 0.5; }
 
 /* TYPOGRAPHY */
-#webkite-results.beer-menu-landscape h1, #webkite-results.beer-menu-landscape h2, #webkite-results.beer-menu-landscape h3, #webkite-results.beer-menu-landscape h4 {
+#webkite-results.beer-menu-landscape-international h1, #webkite-results.beer-menu-landscape-international h2, #webkite-results.beer-menu-landscape-international h3, #webkite-results.beer-menu-landscape-international h4 {
   margin: 0; }
-#webkite-results.beer-menu-landscape h2 {
+#webkite-results.beer-menu-landscape-international h2 {
   word-wrap: break-word;
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
@@ -91,43 +91,43 @@
   font: 700 1.15em/1 "Podkova";
   color: rgba(0, 0, 0, 0.7);
   margin-bottom: 5px; }
-#webkite-results.beer-menu-landscape h3 {
+#webkite-results.beer-menu-landscape-international h3 {
   font: 400 normal .875em/1 "Podkova";
   color: rgba(0, 0, 0, 0.6);
   margin-bottom: 5px; }
-#webkite-results.beer-menu-landscape p, #webkite-results.beer-menu-landscape li {
+#webkite-results.beer-menu-landscape-international p, #webkite-results.beer-menu-landscape-international li {
   color: rgba(0, 0, 0, 0.6); }
 
 /******************************************** NAVIGATIONALS */
-#webkite-results.beer-menu-landscape .webkite-results-header, #webkite-results.beer-menu-landscape .webkite-results-footer {
+#webkite-results.beer-menu-landscape-international .webkite-results-header, #webkite-results.beer-menu-landscape-international .webkite-results-footer {
   text-align: justify;
   position: relative; }
-  #webkite-results.beer-menu-landscape .webkite-results-header .webkite-sort-area, #webkite-results.beer-menu-landscape .webkite-results-header .webkite-filter-area, #webkite-results.beer-menu-landscape .webkite-results-footer .webkite-sort-area, #webkite-results.beer-menu-landscape .webkite-results-footer .webkite-filter-area {
+  #webkite-results.beer-menu-landscape-international .webkite-results-header .webkite-sort-area, #webkite-results.beer-menu-landscape-international .webkite-results-header .webkite-filter-area, #webkite-results.beer-menu-landscape-international .webkite-results-footer .webkite-sort-area, #webkite-results.beer-menu-landscape-international .webkite-results-footer .webkite-filter-area {
     display: inline-block;
     vertical-align: top; }
-  #webkite-results.beer-menu-landscape .webkite-results-header .webkite-branding-area, #webkite-results.beer-menu-landscape .webkite-results-footer .webkite-branding-area {
+  #webkite-results.beer-menu-landscape-international .webkite-results-header .webkite-branding-area, #webkite-results.beer-menu-landscape-international .webkite-results-footer .webkite-branding-area {
     width: 102px;
     margin-right: -102px;
     display: inline-block;
     position: relative; }
-  #webkite-results.beer-menu-landscape .webkite-results-header .webkite-branding-area a, #webkite-results.beer-menu-landscape .webkite-results-footer .webkite-branding-area a {
+  #webkite-results.beer-menu-landscape-international .webkite-results-header .webkite-branding-area a, #webkite-results.beer-menu-landscape-international .webkite-results-footer .webkite-branding-area a {
     background: url("branding-light.svg") center top no-repeat;
     background-size: 100%;
     display: inline-block;
     height: 34px;
     width: 102px; }
-#webkite-results.beer-menu-landscape .webkite-results-header {
+#webkite-results.beer-menu-landscape-international .webkite-results-header {
   line-height: 1;
   margin-bottom: 20px; }
-  #webkite-results.beer-menu-landscape .webkite-results-header::after {
+  #webkite-results.beer-menu-landscape-international .webkite-results-header::after {
     content: '';
     clear: both;
     display: table; }
-#webkite-results.beer-menu-landscape .webkite-results-footer {
+#webkite-results.beer-menu-landscape-international .webkite-results-footer {
   font-size: 14px; }
 
 /************************************** DATASET NAME & EMBED */
-#webkite-results.beer-menu-landscape .webkite-dataset-name {
+#webkite-results.beer-menu-landscape-international .webkite-dataset-name {
   color: rgba(0, 0, 0, 0.7);
   font-size: 22px;
   font-weight: bold;
@@ -135,9 +135,9 @@
   line-height: 1.1em;
   margin: -0.15em 0 15px;
   padding: 0; }
-  #webkite-results.beer-menu-landscape .webkite-dataset-name + .webkite-embed-wrapper {
+  #webkite-results.beer-menu-landscape-international .webkite-dataset-name + .webkite-embed-wrapper {
     margin: -13px 0 5px; }
-#webkite-results.beer-menu-landscape .webkite-embed-wrapper {
+#webkite-results.beer-menu-landscape-international .webkite-embed-wrapper {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -149,7 +149,7 @@
   height: 39px;
   position: relative;
   overflow: hidden; }
-#webkite-results.beer-menu-landscape #webkite-embedder {
+#webkite-results.beer-menu-landscape-international #webkite-embedder {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -162,9 +162,9 @@
   right: 0;
   left: 0;
   z-index: 1; }
-#webkite-results.beer-menu-landscape .webkite-embed-input {
+#webkite-results.beer-menu-landscape-international .webkite-embed-input {
   padding: 0 20px 0 70px; }
-  #webkite-results.beer-menu-landscape .webkite-embed-input input {
+  #webkite-results.beer-menu-landscape-international .webkite-embed-input input {
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     -ms-border-radius: 2px;
@@ -182,7 +182,7 @@
     position: relative;
     width: 100%;
     top: -1px; }
-#webkite-results.beer-menu-landscape .webkite-embed-select {
+#webkite-results.beer-menu-landscape-international .webkite-embed-select {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -196,7 +196,7 @@
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis; }
-#webkite-results.beer-menu-landscape .webkite-embed-hide {
+#webkite-results.beer-menu-landscape-international .webkite-embed-hide {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -210,12 +210,12 @@
   background: url('select-close.png') no-repeat right center; }
 
 /************************************** SORTS AND FILTERS */
-#webkite-results.beer-menu-landscape {
+#webkite-results.beer-menu-landscape-international {
   /* sorts */
   /* filters */
   /* tokens */
   /* clear everything */ }
-  #webkite-results.beer-menu-landscape .webkite-sort-area > .webkite-toggle, #webkite-results.beer-menu-landscape .webkite-primary-filter-menu > .webkite-toggle {
+  #webkite-results.beer-menu-landscape-international .webkite-sort-area > .webkite-toggle, #webkite-results.beer-menu-landscape-international .webkite-primary-filter-menu > .webkite-toggle {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -238,7 +238,7 @@
     height: 28px;
     width: 80px;
     white-space: nowrap; }
-    #webkite-results.beer-menu-landscape .webkite-sort-area > .webkite-toggle > span, #webkite-results.beer-menu-landscape .webkite-primary-filter-menu > .webkite-toggle > span {
+    #webkite-results.beer-menu-landscape-international .webkite-sort-area > .webkite-toggle > span, #webkite-results.beer-menu-landscape-international .webkite-primary-filter-menu > .webkite-toggle > span {
       -webkit-box-sizing: border-box;
       -moz-box-sizing: border-box;
       box-sizing: border-box;
@@ -248,10 +248,10 @@
       text-overflow: ellipsis;
       padding-left: 8px;
       width: 100%; }
-  #webkite-results.beer-menu-landscape .webkite-sort-area {
+  #webkite-results.beer-menu-landscape-international .webkite-sort-area {
     position: relative;
     z-index: 3; }
-  #webkite-results.beer-menu-landscape .webkite-sort-area > .webkite-toggle i {
+  #webkite-results.beer-menu-landscape-international .webkite-sort-area > .webkite-toggle i {
     background: url("angle-light.png") center center no-repeat;
     height: 10px;
     pointer-events: none;
@@ -260,30 +260,30 @@
     top: 50%;
     margin-top: -5px;
     right: 8px; }
-  #webkite-results.beer-menu-landscape .webkite-filter-area {
+  #webkite-results.beer-menu-landscape-international .webkite-filter-area {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     width: 100%;
     position: relative; }
-  #webkite-results.beer-menu-landscape .webkite-sort-area + .webkite-filter-area {
+  #webkite-results.beer-menu-landscape-international .webkite-sort-area + .webkite-filter-area {
     padding-left: 90px;
     margin-left: -80px; }
-  #webkite-results.beer-menu-landscape .webkite-applied-filters {
+  #webkite-results.beer-menu-landscape-international .webkite-applied-filters {
     position: relative; }
-  #webkite-results.beer-menu-landscape .webkite-primary-filter-menu {
+  #webkite-results.beer-menu-landscape-international .webkite-primary-filter-menu {
     position: absolute;
     left: 0;
     top: 0;
     vertical-align: top;
     z-index: 2; }
-  #webkite-results.beer-menu-landscape .webkite-primary-filter-menu > .webkite-toggle {
+  #webkite-results.beer-menu-landscape-international .webkite-primary-filter-menu > .webkite-toggle {
     -webkit-border-radius: 3px 0 0 3px;
     -moz-border-radius: 3px 0 0 3px;
     -ms-border-radius: 3px 0 0 3px;
     -o-border-radius: 3px 0 0 3px;
     border-radius: 3px 0 0 3px; }
-  #webkite-results.beer-menu-landscape .webkite-primary-filter-menu > .webkite-toggle i {
+  #webkite-results.beer-menu-landscape-international .webkite-primary-filter-menu > .webkite-toggle i {
     background: url("plus-light.png") no-repeat;
     height: 12px;
     width: 12px;
@@ -292,7 +292,7 @@
     top: 50%;
     margin-top: -6px;
     right: 6px; }
-  #webkite-results.beer-menu-landscape .current-filters {
+  #webkite-results.beer-menu-landscape-international .current-filters {
     -webkit-border-radius: 0 3px 3px 0;
     -moz-border-radius: 0 3px 3px 0;
     -ms-border-radius: 0 3px 3px 0;
@@ -312,21 +312,21 @@
     text-align: left;
     vertical-align: top;
     /* and & or */ }
-    #webkite-results.beer-menu-landscape .current-filters span {
+    #webkite-results.beer-menu-landscape-international .current-filters span {
       color: rgba(0, 0, 0, 0.6);
       font-size: 14px;
       line-height: 1.2em;
       padding: 0 0.41667em 0 0;
       vertical-align: top; }
-  #webkite-results.beer-menu-landscape .filter-token-wrapper {
+  #webkite-results.beer-menu-landscape-international .filter-token-wrapper {
     display: inline-block;
     max-width: 100%;
     overflow: hidden;
     white-space: nowrap;
     width: 100%; }
-    #webkite-results.beer-menu-landscape .filter-token-wrapper > span:first-child {
+    #webkite-results.beer-menu-landscape-international .filter-token-wrapper > span:first-child {
       padding-left: 0.41667em; }
-  #webkite-results.beer-menu-landscape a.webkite-remove-filter {
+  #webkite-results.beer-menu-landscape-international a.webkite-remove-filter {
     display: inline-block;
     max-width: 100%;
     overflow: hidden;
@@ -345,36 +345,36 @@
     text-align: left;
     word-wrap: normal;
     margin-right: 0.41667em; }
-    #webkite-results.beer-menu-landscape a.webkite-remove-filter:hover {
+    #webkite-results.beer-menu-landscape-international a.webkite-remove-filter:hover {
       text-decoration: line-through; }
-  #webkite-results.beer-menu-landscape [class^="filter-group"] {
+  #webkite-results.beer-menu-landscape-international [class^="filter-group"] {
     display: inline-block; }
-  #webkite-results.beer-menu-landscape .filter-group-0 a.webkite-remove-filter {
+  #webkite-results.beer-menu-landscape-international .filter-group-0 a.webkite-remove-filter {
     background: #1b9cd2; }
-  #webkite-results.beer-menu-landscape .filter-group-1 a.webkite-remove-filter {
+  #webkite-results.beer-menu-landscape-international .filter-group-1 a.webkite-remove-filter {
     background: #39a17c; }
-  #webkite-results.beer-menu-landscape .filter-group-2 a.webkite-remove-filter {
+  #webkite-results.beer-menu-landscape-international .filter-group-2 a.webkite-remove-filter {
     background: #a8936f; }
-  #webkite-results.beer-menu-landscape .filter-group-3 a.webkite-remove-filter {
+  #webkite-results.beer-menu-landscape-international .filter-group-3 a.webkite-remove-filter {
     background: #e6af52; }
-  #webkite-results.beer-menu-landscape .filter-group-4 a.webkite-remove-filter {
+  #webkite-results.beer-menu-landscape-international .filter-group-4 a.webkite-remove-filter {
     background: #6f7ca8; }
-  #webkite-results.beer-menu-landscape a.webkite-clear-filters {
+  #webkite-results.beer-menu-landscape-international a.webkite-clear-filters {
     background: url("clear-all-icon.png") center top no-repeat;
     height: 18px;
     width: 18px;
     position: absolute;
     right: 4px;
     top: 4px; }
-    #webkite-results.beer-menu-landscape a.webkite-clear-filters:active {
+    #webkite-results.beer-menu-landscape-international a.webkite-clear-filters:active {
       background-position: 0 -18px; }
 
 /**************************************** SORT/FILTER MENU */
-#webkite-results.beer-menu-landscape {
+#webkite-results.beer-menu-landscape-international {
   /* directional arrow */
   /* filter arrow */
   /* filter submenu*/ }
-  #webkite-results.beer-menu-landscape .sort-menu, #webkite-results.beer-menu-landscape .filter-menu {
+  #webkite-results.beer-menu-landscape-international .sort-menu, #webkite-results.beer-menu-landscape-international .filter-menu {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     -ms-border-radius: 3px;
@@ -394,22 +394,22 @@
     z-index: 4;
     top: 10px;
     left: 10px; }
-  #webkite-results.beer-menu-landscape .sort-menu li, #webkite-results.beer-menu-landscape .filter-menu li {
+  #webkite-results.beer-menu-landscape-international .sort-menu li, #webkite-results.beer-menu-landscape-international .filter-menu li {
     list-style-type: none;
     position: relative;
     padding-bottom: 0; }
-  #webkite-results.beer-menu-landscape .sort-menu li a, #webkite-results.beer-menu-landscape .filter-menu li .webkite-link, #webkite-results.beer-menu-landscape .filter-menu li a {
+  #webkite-results.beer-menu-landscape-international .sort-menu li a, #webkite-results.beer-menu-landscape-international .filter-menu li .webkite-link, #webkite-results.beer-menu-landscape-international .filter-menu li a {
     color: #1b9cd2;
     display: block;
     padding: 2px 10px;
     white-space: pre; }
-    #webkite-results.beer-menu-landscape .sort-menu li a:hover, #webkite-results.beer-menu-landscape .filter-menu li .webkite-link:hover, #webkite-results.beer-menu-landscape .filter-menu li a:hover {
+    #webkite-results.beer-menu-landscape-international .sort-menu li a:hover, #webkite-results.beer-menu-landscape-international .filter-menu li .webkite-link:hover, #webkite-results.beer-menu-landscape-international .filter-menu li a:hover {
       background: #1b9cd2;
       color: white; }
-  #webkite-results.beer-menu-landscape .sort-menu li.active a {
+  #webkite-results.beer-menu-landscape-international .sort-menu li.active a {
     position: relative;
     padding-right: 30px; }
-    #webkite-results.beer-menu-landscape .sort-menu li.active a.asc::after, #webkite-results.beer-menu-landscape .sort-menu li.active a.desc::after {
+    #webkite-results.beer-menu-landscape-international .sort-menu li.active a.asc::after, #webkite-results.beer-menu-landscape-international .sort-menu li.active a.desc::after {
       background: url("sort-direction.png") no-repeat;
       content: "";
       display: block;
@@ -418,22 +418,22 @@
       position: absolute;
       top: 8px;
       right: 10px; }
-    #webkite-results.beer-menu-landscape .sort-menu li.active a.asc::after {
+    #webkite-results.beer-menu-landscape-international .sort-menu li.active a.asc::after {
       background-position: 0 0; }
-    #webkite-results.beer-menu-landscape .sort-menu li.active a.desc::after {
+    #webkite-results.beer-menu-landscape-international .sort-menu li.active a.desc::after {
       background-position: 0 -5px; }
-  #webkite-results.beer-menu-landscape .filter-menu > li > .webkite-link {
+  #webkite-results.beer-menu-landscape-international .filter-menu > li > .webkite-link {
     color: #1b9cd2;
     cursor: pointer;
     padding-right: 20px;
     position: relative; }
-    #webkite-results.beer-menu-landscape .filter-menu > li > .webkite-link::after {
+    #webkite-results.beer-menu-landscape-international .filter-menu > li > .webkite-link::after {
       color: rgba(0, 0, 0, 0.6);
       content: "\203A";
       opacity: 0.5;
       position: absolute;
       right: 6.66667px; }
-  #webkite-results.beer-menu-landscape .filter-menu-child {
+  #webkite-results.beer-menu-landscape-international .filter-menu-child {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     -ms-border-radius: 3px;
@@ -451,11 +451,11 @@
     left: 100%;
     top: -10px;
     margin: 0; }
-  #webkite-results.beer-menu-landscape .filter-menu li:hover .filter-menu-child {
+  #webkite-results.beer-menu-landscape-international .filter-menu li:hover .filter-menu-child {
     display: block; }
 
 /******************************* FILTER OVERVIEW AND SHADE */
-#webkite-results.beer-menu-landscape .filter-token-wrapper.webkite-truncated:before {
+#webkite-results.beer-menu-landscape-international .filter-token-wrapper.webkite-truncated:before {
   content: "";
   background: url("gradient-fallback-light.png") repeat-y;
   background: -moz-linear-gradient(left, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.3) 5%, rgba(0, 0, 0, 0.15) 25%, rgba(0, 0, 0, 0.02) 75%, rgba(0, 0, 0, 0) 100%);
@@ -471,7 +471,7 @@
   left: -1px;
   top: -1px;
   bottom: -1px; }
-#webkite-results.beer-menu-landscape .all-current-filters {
+#webkite-results.beer-menu-landscape-international .all-current-filters {
   -webkit-border-radius: 0 3px 3px 3px;
   -moz-border-radius: 0 3px 3px 3px;
   -ms-border-radius: 0 3px 3px 3px;
@@ -489,18 +489,18 @@
   right: -1px;
   left: -1px;
   z-index: 3; }
-  #webkite-results.beer-menu-landscape .all-current-filters .all-filters-wrapper {
+  #webkite-results.beer-menu-landscape-international .all-current-filters .all-filters-wrapper {
     white-space: normal; }
-    #webkite-results.beer-menu-landscape .all-current-filters .all-filters-wrapper > span:first-child {
+    #webkite-results.beer-menu-landscape-international .all-current-filters .all-filters-wrapper > span:first-child {
       padding-left: 0; }
-    #webkite-results.beer-menu-landscape .all-current-filters .all-filters-wrapper [class^="filter-group"] {
+    #webkite-results.beer-menu-landscape-international .all-current-filters .all-filters-wrapper [class^="filter-group"] {
       display: inline; }
 
 /********************************************* PAGINATION */
-#webkite-results.beer-menu-landscape {
+#webkite-results.beer-menu-landscape-international {
   /* page input */
   /* remove arrows */ }
-  #webkite-results.beer-menu-landscape .webkite-pagination-area {
+  #webkite-results.beer-menu-landscape-international .webkite-pagination-area {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -511,32 +511,32 @@
     display: inline-block;
     vertical-align: top;
     line-height: 34px; }
-    #webkite-results.beer-menu-landscape .webkite-pagination-area:empty {
+    #webkite-results.beer-menu-landscape-international .webkite-pagination-area:empty {
       display: none; }
-  #webkite-results.beer-menu-landscape .webkite-results-paginator {
+  #webkite-results.beer-menu-landscape-international .webkite-results-paginator {
     font-size: 14px; }
-    #webkite-results.beer-menu-landscape .webkite-results-paginator a, #webkite-results.beer-menu-landscape .webkite-results-paginator p {
+    #webkite-results.beer-menu-landscape-international .webkite-results-paginator a, #webkite-results.beer-menu-landscape-international .webkite-results-paginator p {
       display: inline; }
-    #webkite-results.beer-menu-landscape .webkite-results-paginator em {
+    #webkite-results.beer-menu-landscape-international .webkite-results-paginator em {
       font-style: italic; }
-    #webkite-results.beer-menu-landscape .webkite-results-paginator a {
+    #webkite-results.beer-menu-landscape-international .webkite-results-paginator a {
       font-size: 1.2em;
       line-height: 0; }
-  #webkite-results.beer-menu-landscape .first-result-page, #webkite-results.beer-menu-landscape .previous-result-page {
+  #webkite-results.beer-menu-landscape-international .first-result-page, #webkite-results.beer-menu-landscape-international .previous-result-page {
     padding-right: 10px; }
-    #webkite-results.beer-menu-landscape .first-result-page.disabled, #webkite-results.beer-menu-landscape .previous-result-page.disabled {
+    #webkite-results.beer-menu-landscape-international .first-result-page.disabled, #webkite-results.beer-menu-landscape-international .previous-result-page.disabled {
       color: rgba(0, 0, 0, 0.6); }
-      #webkite-results.beer-menu-landscape .first-result-page.disabled:hover, #webkite-results.beer-menu-landscape .previous-result-page.disabled:hover {
+      #webkite-results.beer-menu-landscape-international .first-result-page.disabled:hover, #webkite-results.beer-menu-landscape-international .previous-result-page.disabled:hover {
         color: rgba(0, 0, 0, 0.6);
         cursor: default; }
-  #webkite-results.beer-menu-landscape .next-result-page, #webkite-results.beer-menu-landscape .last-result-page {
+  #webkite-results.beer-menu-landscape-international .next-result-page, #webkite-results.beer-menu-landscape-international .last-result-page {
     padding-left: 10px; }
-    #webkite-results.beer-menu-landscape .next-result-page.disabled, #webkite-results.beer-menu-landscape .last-result-page.disabled {
+    #webkite-results.beer-menu-landscape-international .next-result-page.disabled, #webkite-results.beer-menu-landscape-international .last-result-page.disabled {
       color: rgba(0, 0, 0, 0.6); }
-      #webkite-results.beer-menu-landscape .next-result-page.disabled:hover, #webkite-results.beer-menu-landscape .last-result-page.disabled:hover {
+      #webkite-results.beer-menu-landscape-international .next-result-page.disabled:hover, #webkite-results.beer-menu-landscape-international .last-result-page.disabled:hover {
         color: rgba(0, 0, 0, 0.6);
         cursor: default; }
-  #webkite-results.beer-menu-landscape input.webkite-page-input {
+  #webkite-results.beer-menu-landscape-international input.webkite-page-input {
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     -ms-border-radius: 2px;
@@ -556,96 +556,96 @@
     font-size: 0.9em;
     line-height: 16px;
     text-align: center; }
-  #webkite-results.beer-menu-landscape .webkite-page-input::-webkit-outer-spin-button, #webkite-results.beer-menu-landscape .webkite-page-input::-webkit-inner-spin-button {
+  #webkite-results.beer-menu-landscape-international .webkite-page-input::-webkit-outer-spin-button, #webkite-results.beer-menu-landscape-international .webkite-page-input::-webkit-inner-spin-button {
     -webkit-appearance: none;
     margin: 0; }
-  #webkite-results.beer-menu-landscape input[type=number] {
+  #webkite-results.beer-menu-landscape-international input[type=number] {
     -moz-appearance: textfield; }
 
 /************************************** ELEMENT QUERIES */
-#webkite-results.xs.beer-menu-landscape .webkite-branding-area, #webkite-results.xs.beer-menu-landscape .webkite-pagination-area {
+#webkite-results.xs.beer-menu-landscape-international .webkite-branding-area, #webkite-results.xs.beer-menu-landscape-international .webkite-pagination-area {
   width: 100%;
   padding: 0;
   margin: 0;
   text-align: center; }
-#webkite-results.xs.beer-menu-landscape .webkite-filter-area, #webkite-results.xs.beer-menu-landscape .webkite-sort-area, #webkite-results.xs.beer-menu-landscape .webkite-sort-area > .webkite-toggle {
+#webkite-results.xs.beer-menu-landscape-international .webkite-filter-area, #webkite-results.xs.beer-menu-landscape-international .webkite-sort-area, #webkite-results.xs.beer-menu-landscape-international .webkite-sort-area > .webkite-toggle {
   width: 100%; }
-#webkite-results.xs.beer-menu-landscape .sort-menu {
+#webkite-results.xs.beer-menu-landscape-international .sort-menu {
   width: 95%; }
-#webkite-results.xs.beer-menu-landscape .webkite-sort-area + .webkite-filter-area {
+#webkite-results.xs.beer-menu-landscape-international .webkite-sort-area + .webkite-filter-area {
   margin-top: 20px; }
-#webkite-results.xs.beer-menu-landscape .webkite-filter-area, #webkite-results.xs.beer-menu-landscape .webkite-sort-area + .webkite-filter-area {
+#webkite-results.xs.beer-menu-landscape-international .webkite-filter-area, #webkite-results.xs.beer-menu-landscape-international .webkite-sort-area + .webkite-filter-area {
   margin-left: 0;
   padding-left: 0; }
-#webkite-results.xs.beer-menu-landscape .webkite-branding-area + .webkite-pagination-area {
+#webkite-results.xs.beer-menu-landscape-international .webkite-branding-area + .webkite-pagination-area {
   margin-top: 20px; }
-#webkite-results.xs.beer-menu-landscape .webkite-dataset-name {
+#webkite-results.xs.beer-menu-landscape-international .webkite-dataset-name {
   text-align: center;
   font-size: 20px; }
-#webkite-results.xs.beer-menu-landscape .webkite-embed-wrapper .webkite-embed-show {
+#webkite-results.xs.beer-menu-landscape-international .webkite-embed-wrapper .webkite-embed-show {
   display: block;
   text-align: center; }
 
-#webkite-results.sm.beer-menu-landscape .webkite-filter-area, #webkite-results.sm.beer-menu-landscape .webkite-sort-area, #webkite-results.sm.beer-menu-landscape .webkite-sort-area > .webkite-toggle {
+#webkite-results.sm.beer-menu-landscape-international .webkite-filter-area, #webkite-results.sm.beer-menu-landscape-international .webkite-sort-area, #webkite-results.sm.beer-menu-landscape-international .webkite-sort-area > .webkite-toggle {
   width: 100%; }
-#webkite-results.sm.beer-menu-landscape .sort-menu {
+#webkite-results.sm.beer-menu-landscape-international .sort-menu {
   width: 95%; }
-#webkite-results.sm.beer-menu-landscape .webkite-sort-area + .webkite-filter-area {
+#webkite-results.sm.beer-menu-landscape-international .webkite-sort-area + .webkite-filter-area {
   margin-top: 20px; }
-#webkite-results.sm.beer-menu-landscape .webkite-filter-area, #webkite-results.sm.beer-menu-landscape .webkite-sort-area + .webkite-filter-area {
+#webkite-results.sm.beer-menu-landscape-international .webkite-filter-area, #webkite-results.sm.beer-menu-landscape-international .webkite-sort-area + .webkite-filter-area {
   margin-left: 0;
   padding-left: 0; }
 
 /********************************************** BLOCKS */
-#webkite-results.beer-menu-landscape .webkite-block {
+#webkite-results.beer-menu-landscape-international .webkite-block {
   display: inline-block;
   vertical-align: top;
   text-align: left;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
-  #webkite-results.beer-menu-landscape .webkite-block:first-child {
+  #webkite-results.beer-menu-landscape-international .webkite-block:first-child {
     padding-right: 20px; }
-  #webkite-results.beer-menu-landscape .webkite-block ul {
+  #webkite-results.beer-menu-landscape-international .webkite-block ul {
     margin: 0;
     -webkit-padding-start: 0;
     -moz-padding-start: 0; }
-    #webkite-results.beer-menu-landscape .webkite-block ul li {
+    #webkite-results.beer-menu-landscape-international .webkite-block ul li {
       list-style-type: none;
       text-align: justify;
       padding-bottom: 10px; }
-      #webkite-results.beer-menu-landscape .webkite-block ul li b {
+      #webkite-results.beer-menu-landscape-international .webkite-block ul li b {
         display: inline-block;
         text-align: left;
         width: 100%;
         font-weight: 700; }
-      #webkite-results.beer-menu-landscape .webkite-block ul li span.facet-values {
+      #webkite-results.beer-menu-landscape-international .webkite-block ul li span.facet-values {
         display: inline-block;
         text-align: left;
         width: 100%;
         font-weight: 400; }
-      #webkite-results.beer-menu-landscape .webkite-block ul li .facet-values {
+      #webkite-results.beer-menu-landscape-international .webkite-block ul li .facet-values {
         font: 400 normal 1em/1 "Podkova"; }
-#webkite-results.beer-menu-landscape .webkite-block.sixty {
+#webkite-results.beer-menu-landscape-international .webkite-block.sixty {
   width: 64%; }
-#webkite-results.beer-menu-landscape .webkite-block.forty {
+#webkite-results.beer-menu-landscape-international .webkite-block.forty {
   width: 34%; }
 
 /************************************ LANDSCAPE RESULTS */
-#webkite-results.beer-menu-landscape ul.beer-info {
+#webkite-results.beer-menu-landscape-international ul.beer-info {
   display: inline-block;
   margin-bottom: 10px;
   width: 100%;
   text-align: left; }
-  #webkite-results.beer-menu-landscape ul.beer-info li {
+  #webkite-results.beer-menu-landscape-international ul.beer-info li {
     font-size: 0.875em;
     text-align: left;
     clear: both; }
-  #webkite-results.beer-menu-landscape ul.beer-info .beer-price, #webkite-results.beer-menu-landscape ul.beer-info .abv {
+  #webkite-results.beer-menu-landscape-international ul.beer-info .beer-price, #webkite-results.beer-menu-landscape-international ul.beer-info .abv {
     font: 700 1em/1 "Podkova";
     color: rgba(0, 0, 0, 0.6);
     text-align: right; }
-  #webkite-results.beer-menu-landscape ul.beer-info .beer-price {
+  #webkite-results.beer-menu-landscape-international ul.beer-info .beer-price {
     float: right;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -653,9 +653,9 @@
     padding-bottom: 3px;
     margin-bottom: -3px;
     max-width: 100%; }
-  #webkite-results.beer-menu-landscape ul.beer-info .abv-per {
+  #webkite-results.beer-menu-landscape-international ul.beer-info .abv-per {
     font: 400 1em/1 "Open Sans"; }
-#webkite-results.beer-menu-landscape .image-wrapper {
+#webkite-results.beer-menu-landscape-international .image-wrapper {
   -webkit-border-radius: 0.188em;
   -moz-border-radius: 0.188em;
   -ms-border-radius: 0.188em;
@@ -666,22 +666,22 @@
   float: right;
   padding-bottom: 27%;
   width: 27%; }
-#webkite-results.beer-menu-landscape .image-wrapper + .beer-info {
+#webkite-results.beer-menu-landscape-international .image-wrapper + .beer-info {
   width: 70%; }
-#webkite-results.beer-menu-landscape .providence {
+#webkite-results.beer-menu-landscape-international .providence {
   font-size: 0.875em;
   margin-bottom: 10px; }
-  #webkite-results.beer-menu-landscape .providence .city + .state::before {
+  #webkite-results.beer-menu-landscape-international .providence .city + .state::before {
     content: ", ";
     color: rgba(0, 0, 0, 0.7); }
-  #webkite-results.beer-menu-landscape .providence .city + .country::before {
+  #webkite-results.beer-menu-landscape-international .providence .city + .country::before {
     content: ", "; }
-  #webkite-results.beer-menu-landscape .providence .state + .country::before {
+  #webkite-results.beer-menu-landscape-international .providence .state + .country::before {
     content: ", "; }
-#webkite-results.beer-menu-landscape .webkite-result {
+#webkite-results.beer-menu-landscape-international .webkite-result {
   text-align: justify;
   position: relative; }
-  #webkite-results.beer-menu-landscape .webkite-result::after {
+  #webkite-results.beer-menu-landscape-international .webkite-result::after {
     content: '';
     display: inline-block;
     width: 100%;
@@ -690,7 +690,7 @@
     padding: 0;
     white-space: pre-line;
     margin-bottom: 20px; }
-#webkite-results.beer-menu-landscape a.more-button, #webkite-results.beer-menu-landscape a.less-button {
+#webkite-results.beer-menu-landscape-international a.more-button, #webkite-results.beer-menu-landscape-international a.less-button {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -707,15 +707,15 @@
   margin-top: 20px;
   text-align: center;
   width: 4.375em; }
-#webkite-results.beer-menu-landscape a.more-button {
+#webkite-results.beer-menu-landscape-international a.more-button {
   background: #1b9cd2; }
-  #webkite-results.beer-menu-landscape a.more-button:hover {
+  #webkite-results.beer-menu-landscape-international a.more-button:hover {
     background: #0073a7; }
-#webkite-results.beer-menu-landscape a.less-button {
+#webkite-results.beer-menu-landscape-international a.less-button {
   background: rgba(0, 0, 0, 0.6); }
-  #webkite-results.beer-menu-landscape a.less-button:hover {
+  #webkite-results.beer-menu-landscape-international a.less-button:hover {
     background: rgba(0, 0, 0, 0.6); }
-#webkite-results.beer-menu-landscape .webkite-result-footer {
+#webkite-results.beer-menu-landscape-international .webkite-result-footer {
   clear: both;
   display: block;
   padding-top: 20px;
@@ -723,11 +723,11 @@
   text-align: right; }
 
 /************************************** INLINE FILTERS */
-#webkite-results.beer-menu-landscape .webkite-block li b {
+#webkite-results.beer-menu-landscape-international .webkite-block li b {
   position: relative; }
-  #webkite-results.beer-menu-landscape .webkite-block li b.inline-filter-button + .facet-values {
+  #webkite-results.beer-menu-landscape-international .webkite-block li b.inline-filter-button + .facet-values {
     padding-top: 5px; }
-  #webkite-results.beer-menu-landscape .webkite-block li b > .webkite-toggle {
+  #webkite-results.beer-menu-landscape-international .webkite-block li b > .webkite-toggle {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -749,7 +749,7 @@
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis; }
-    #webkite-results.beer-menu-landscape .webkite-block li b > .webkite-toggle i {
+    #webkite-results.beer-menu-landscape-international .webkite-block li b > .webkite-toggle i {
       background: url("angle-light.png") center center no-repeat;
       position: absolute;
       height: 10px;
@@ -758,10 +758,10 @@
       width: 10px;
       top: 50%;
       right: 3px; }
-    #webkite-results.beer-menu-landscape .webkite-block li b > .webkite-toggle:hover {
+    #webkite-results.beer-menu-landscape-international .webkite-block li b > .webkite-toggle:hover {
       border: 1px solid rgba(0, 0, 0, 0.1);
       background: rgba(0, 0, 0, 0.05); }
-#webkite-results.beer-menu-landscape .webkite-block .inline-filter-menu {
+#webkite-results.beer-menu-landscape-international .webkite-block .inline-filter-menu {
   -webkit-border-radius: 0.375em;
   -moz-border-radius: 0.375em;
   -ms-border-radius: 0.375em;
@@ -781,9 +781,9 @@
   max-height: 12.5em;
   overflow-y: auto;
   z-index: 2; }
-  #webkite-results.beer-menu-landscape .webkite-block .inline-filter-menu li {
+  #webkite-results.beer-menu-landscape-international .webkite-block .inline-filter-menu li {
     padding-bottom: 0; }
-    #webkite-results.beer-menu-landscape .webkite-block .inline-filter-menu li a {
+    #webkite-results.beer-menu-landscape-international .webkite-block .inline-filter-menu li a {
       color: #1b9cd2;
       display: block;
       font-size: 0.875em;
@@ -791,99 +791,99 @@
       max-width: 100%;
       padding: 2.5px 20px 2.5px 10px;
       white-space: pre; }
-      #webkite-results.beer-menu-landscape .webkite-block .inline-filter-menu li a:hover {
+      #webkite-results.beer-menu-landscape-international .webkite-block .inline-filter-menu li a:hover {
         background: #1b9cd2;
         color: white; }
 
 /******************************************* NO RESULTS */
-#webkite-results.beer-menu-landscape .webkite-no-results {
+#webkite-results.beer-menu-landscape-international .webkite-no-results {
   padding: 20px 0;
   margin-bottom: 20px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05); }
-  #webkite-results.beer-menu-landscape .webkite-no-results h2 {
+  #webkite-results.beer-menu-landscape-international .webkite-no-results h2 {
     margin-bottom: 20px; }
 
 /************************************** ELEMENT QUERIES */
-#webkite-results.beer-menu-landscape.xs .webkite-block {
+#webkite-results.beer-menu-landscape-international.xs .webkite-block {
   width: 100%;
   padding-right: 0; }
-#webkite-results.beer-menu-landscape.xs .webkite-block ul li b, #webkite-results.beer-menu-landscape.xs .webkite-block ul li a, #webkite-results.beer-menu-landscape.xs .webkite-block ul li span {
+#webkite-results.beer-menu-landscape-international.xs .webkite-block ul li b, #webkite-results.beer-menu-landscape-international.xs .webkite-block ul li a, #webkite-results.beer-menu-landscape-international.xs .webkite-block ul li span {
   width: 100%; }
-#webkite-results.beer-menu-landscape.xs .webkite-block ul li .webkite-toggle {
+#webkite-results.beer-menu-landscape-international.xs .webkite-block ul li .webkite-toggle {
   width: auto; }
-#webkite-results.beer-menu-landscape.xs .image-wrapper + .beer-info {
+#webkite-results.beer-menu-landscape-international.xs .image-wrapper + .beer-info {
   width: 100%; }
-#webkite-results.beer-menu-landscape.xs ul.beer-info .beer-price {
+#webkite-results.beer-menu-landscape-international.xs ul.beer-info .beer-price {
   float: none;
   display: inline-block;
   text-align: left;
   width: 100%; }
-#webkite-results.beer-menu-landscape.xs .image-wrapper {
+#webkite-results.beer-menu-landscape-international.xs .image-wrapper {
   width: 100%;
   padding-bottom: 100%; }
-#webkite-results.beer-menu-landscape.xs .webkite-block .inline-filter-menu li a {
+#webkite-results.beer-menu-landscape-international.xs .webkite-block .inline-filter-menu li a {
   max-width: 100%;
   width: auto; }
 
-#webkite-results.beer-menu-landscape.sm .webkite-block {
+#webkite-results.beer-menu-landscape-international.sm .webkite-block {
   width: 100%; }
-#webkite-results.beer-menu-landscape.sm .webkite-block ul li b, #webkite-results.beer-menu-landscape.sm .webkite-block ul li a, #webkite-results.beer-menu-landscape.sm .webkite-block ul li span {
+#webkite-results.beer-menu-landscape-international.sm .webkite-block ul li b, #webkite-results.beer-menu-landscape-international.sm .webkite-block ul li a, #webkite-results.beer-menu-landscape-international.sm .webkite-block ul li span {
   width: 100%; }
-#webkite-results.beer-menu-landscape.sm .webkite-block ul li .webkite-toggle {
+#webkite-results.beer-menu-landscape-international.sm .webkite-block ul li .webkite-toggle {
   width: auto; }
-#webkite-results.beer-menu-landscape.sm .webkite-big-block {
+#webkite-results.beer-menu-landscape-international.sm .webkite-big-block {
   display: inline-block;
   vertical-align: top; }
-  #webkite-results.beer-menu-landscape.sm .webkite-big-block.sixty {
+  #webkite-results.beer-menu-landscape-international.sm .webkite-big-block.sixty {
     width: 59%; }
-  #webkite-results.beer-menu-landscape.sm .webkite-big-block.forty {
+  #webkite-results.beer-menu-landscape-international.sm .webkite-big-block.forty {
     width: 39%; }
-#webkite-results.beer-menu-landscape.sm .image-wrapper {
+#webkite-results.beer-menu-landscape-international.sm .image-wrapper {
   padding-bottom: 39%;
   float: none; }
-#webkite-results.beer-menu-landscape.sm .image-wrapper + .beer-info {
+#webkite-results.beer-menu-landscape-international.sm .image-wrapper + .beer-info {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   width: 100%;
   padding-right: 20px; }
-#webkite-results.beer-menu-landscape.sm ul.beer-info .beer-price {
+#webkite-results.beer-menu-landscape-international.sm ul.beer-info .beer-price {
   float: none;
   display: inline-block;
   text-align: left;
   width: 100%; }
 
 /***************************************  DISPLAY RULES */
-#webkite-results.beer-menu-landscape.xs .until-xs, #webkite-results.beer-menu-landscape.xs .until-sm, #webkite-results.beer-menu-landscape.xs .sm-only, #webkite-results.beer-menu-landscape.xs .md-only, #webkite-results.beer-menu-landscape.xs .lg-only {
+#webkite-results.beer-menu-landscape-international.xs .until-xs, #webkite-results.beer-menu-landscape-international.xs .until-sm, #webkite-results.beer-menu-landscape-international.xs .sm-only, #webkite-results.beer-menu-landscape-international.xs .md-only, #webkite-results.beer-menu-landscape-international.xs .lg-only {
   display: none; }
-#webkite-results.beer-menu-landscape.xs .xs-only, #webkite-results.beer-menu-landscape.xs .webkite-results-header .xs-only {
+#webkite-results.beer-menu-landscape-international.xs .xs-only, #webkite-results.beer-menu-landscape-international.xs .webkite-results-header .xs-only {
   display: inline-block; }
-#webkite-results.beer-menu-landscape.xs td.xs-only, #webkite-results.beer-menu-landscape.xs th.xs-only {
+#webkite-results.beer-menu-landscape-international.xs td.xs-only, #webkite-results.beer-menu-landscape-international.xs th.xs-only {
   display: table-cell; }
 
-#webkite-results.beer-menu-landscape.sm .until-sm, #webkite-results.beer-menu-landscape.sm .xs-only, #webkite-results.beer-menu-landscape.sm .md-only, #webkite-results.beer-menu-landscape.sm .lg-only {
+#webkite-results.beer-menu-landscape-international.sm .until-sm, #webkite-results.beer-menu-landscape-international.sm .xs-only, #webkite-results.beer-menu-landscape-international.sm .md-only, #webkite-results.beer-menu-landscape-international.sm .lg-only {
   display: none; }
-#webkite-results.beer-menu-landscape.sm .sm-only {
+#webkite-results.beer-menu-landscape-international.sm .sm-only {
   display: inline-block; }
-#webkite-results.beer-menu-landscape.sm td.sm-only, #webkite-results.beer-menu-landscape.sm th.sm-only {
+#webkite-results.beer-menu-landscape-international.sm td.sm-only, #webkite-results.beer-menu-landscape-international.sm th.sm-only {
   display: table-cell; }
 
-#webkite-results.beer-menu-landscape .until-md, #webkite-results.beer-menu-landscape .xs-only, #webkite-results.beer-menu-landscape .sm-only, #webkite-results.beer-menu-landscape .lg-only, #webkite-results.beer-menu-landscape.md .until-md, #webkite-results.beer-menu-landscape.md .xs-only, #webkite-results.beer-menu-landscape.md .sm-only, #webkite-results.beer-menu-landscape.md .lg-only, #webkite-results.beer-menu-landscape.xl .until-md, #webkite-results.beer-menu-landscape.xl .xs-only, #webkite-results.beer-menu-landscape.xl .sm-only, #webkite-results.beer-menu-landscape.xl .lg-only {
+#webkite-results.beer-menu-landscape-international .until-md, #webkite-results.beer-menu-landscape-international .xs-only, #webkite-results.beer-menu-landscape-international .sm-only, #webkite-results.beer-menu-landscape-international .lg-only, #webkite-results.beer-menu-landscape-international.md .until-md, #webkite-results.beer-menu-landscape-international.md .xs-only, #webkite-results.beer-menu-landscape-international.md .sm-only, #webkite-results.beer-menu-landscape-international.md .lg-only, #webkite-results.beer-menu-landscape-international.xl .until-md, #webkite-results.beer-menu-landscape-international.xl .xs-only, #webkite-results.beer-menu-landscape-international.xl .sm-only, #webkite-results.beer-menu-landscape-international.xl .lg-only {
   display: none; }
-#webkite-results.beer-menu-landscape .webkite-results-header .xs-only, #webkite-results.beer-menu-landscape.md .webkite-results-header .xs-only, #webkite-results.beer-menu-landscape.xl .webkite-results-header .xs-only {
+#webkite-results.beer-menu-landscape-international .webkite-results-header .xs-only, #webkite-results.beer-menu-landscape-international.md .webkite-results-header .xs-only, #webkite-results.beer-menu-landscape-international.xl .webkite-results-header .xs-only {
   display: none; }
-#webkite-results.beer-menu-landscape .md-only, #webkite-results.beer-menu-landscape.md .md-only, #webkite-results.beer-menu-landscape.xl .md-only {
+#webkite-results.beer-menu-landscape-international .md-only, #webkite-results.beer-menu-landscape-international.md .md-only, #webkite-results.beer-menu-landscape-international.xl .md-only {
   display: inline-block; }
-#webkite-results.beer-menu-landscape td.md-only, #webkite-results.beer-menu-landscape th.md-only, #webkite-results.beer-menu-landscape.md td.md-only, #webkite-results.beer-menu-landscape.md th.md-only, #webkite-results.beer-menu-landscape.xl td.md-only, #webkite-results.beer-menu-landscape.xl th.md-only {
+#webkite-results.beer-menu-landscape-international td.md-only, #webkite-results.beer-menu-landscape-international th.md-only, #webkite-results.beer-menu-landscape-international.md td.md-only, #webkite-results.beer-menu-landscape-international.md th.md-only, #webkite-results.beer-menu-landscape-international.xl td.md-only, #webkite-results.beer-menu-landscape-international.xl th.md-only {
   display: table-cell; }
-#webkite-results.beer-menu-landscape th span.md-only, #webkite-results.beer-menu-landscape.md th span.md-only, #webkite-results.beer-menu-landscape.xl th span.md-only {
+#webkite-results.beer-menu-landscape-international th span.md-only, #webkite-results.beer-menu-landscape-international.md th span.md-only, #webkite-results.beer-menu-landscape-international.xl th span.md-only {
   line-height: 1; }
 
-#webkite-results.beer-menu-landscape.lg .until-lg, #webkite-results.beer-menu-landscape.lg .xs-only, #webkite-results.beer-menu-landscape.lg .sm-only, #webkite-results.beer-menu-landscape.lg .md-only {
+#webkite-results.beer-menu-landscape-international.lg .until-lg, #webkite-results.beer-menu-landscape-international.lg .xs-only, #webkite-results.beer-menu-landscape-international.lg .sm-only, #webkite-results.beer-menu-landscape-international.lg .md-only {
   display: none; }
-#webkite-results.beer-menu-landscape.lg .lg-only {
+#webkite-results.beer-menu-landscape-international.lg .lg-only {
   display: inline-block; }
-#webkite-results.beer-menu-landscape.lg td.lg-only, #webkite-results.beer-menu-landscape.lg th.lg-only {
+#webkite-results.beer-menu-landscape-international.lg td.lg-only, #webkite-results.beer-menu-landscape-international.lg th.lg-only {
   display: table-cell; }
-#webkite-results.beer-menu-landscape.lg th span.lg-only {
+#webkite-results.beer-menu-landscape-international.lg th span.lg-only {
   line-height: 1; }
